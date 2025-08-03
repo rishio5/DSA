@@ -1,3 +1,4 @@
+package DSA;
 import java.util.Scanner;
 
 public class maximum_sum_subarray {
